@@ -1,0 +1,9 @@
+[package]
+name = "gpu_registry"
+edition = "2024.beta"
+
+[addresses]
+gpu_registry = "0x9efe82aa0f1b16b2d3da31068c0f64db20c54e3f168321a1f175ef870bf8748e"
+
+[dev-addresses]
+gpu_registry = "0x9efe82aa0f1b16b2d3da31068c0f64db20c54e3f168321a1f175ef870bf8748e"
