@@ -53,15 +53,13 @@ A decentralized application for managing GPU resources and tracking ML model exe
 
 ## 🧰 Getting Started
 
-# 🛠️ Sui Blockchain CLI Setup Guide (macOS/Linux with Homebrew)
 
-This guide walks you through installing the Sui CLI using Homebrew.
+## 🛠 Installation & Setup
 
----
-
-## 📦 Step 1: Install Homebrew (if not installed)
-
-If you don't have Homebrew installed yet, run:
+### 1. Clone the Repository
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+git clone https://github.com/gishnudev/GPU-Registry-dApp
+cd gpu-registry-dapp
+
+```
